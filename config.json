@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://test:test123@ds121652.mlab.com:21652/mean",
+    "apiUrl": "http://localhost:4000",
+    "secret": "007"
+}
